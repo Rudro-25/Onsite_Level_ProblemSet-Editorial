@@ -1,0 +1,9 @@
+1. RUET-2022
+contest link: https://algo.codemarshal.org/contests/ruet-2022
+Problem set link: https://cdn.discordapp.com/attachments/939601130088988763/983788152558854164/RUET_IUPC_2022_PROBLEMSET.pdf
+editorial link: https://docs.google.com/document/d/1IFOWYiXC6yGcBH7Pt7ansp3ymNhdJoK9KZbcVmYVa4A/mobilebasic?fbclid=IwAR1hMf3I2TGtWCUstny5XOZI-nqFVlAYhAE_9jcQIhxZKgNjnADIC5otTKs
+
+02. AUST 2022
+contest link: https://algo.codemarshal.org/contests/aust-2022
+Problem set link: https://cdn.discordapp.com/attachments/818840121008455680/990574950639358052/AUST_IUPC_2022.pdf
+Editorial link:
